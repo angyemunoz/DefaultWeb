@@ -1,0 +1,4 @@
+this is a new message
+commit #2> 2 message
+commit #3> 3 message
+commit #4> 4 message
